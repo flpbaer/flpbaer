@@ -2,5 +2,6 @@
   <h2>Welcome my github!</h2>
   Doing everything to get what i want
 </div>
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=flpbaer" alt="GitHub Streak" /></a>
+<div align=center>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=flpbaer&hide_border=true&background=0000001E&currStreakLabel=EBEBEB&currStreakNum=EBEBEB&excludeDaysLabel=EBEBEB&sideNums=EBEBEB&sideLabels=EBEBEB&dates=B7B7B7" alt="GitHub Streak" /></a>
+</div>
