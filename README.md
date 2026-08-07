@@ -4,5 +4,7 @@
 </div>
 
 <div align="center">
-  [![HonorBadge](https://honorbadge.curbas.dev/flpbaer/badge.svg)](https://honorbadge.curbas.dev/flpbaer)
+  <a href="https://honorbadge.curbas.dev/flpbaer">
+    <img src="https://honorbadge.curbas.dev/flpbaer/badge.svg" alt="HonorBadge">
+  </a>
 </div>
