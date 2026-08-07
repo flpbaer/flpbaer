@@ -7,6 +7,6 @@
 
 <div align="center">
   <a href="https://honorbadge.curbas.dev/flpbaer">
-    <img src="https://honorbadge.curbas.dev/flpbaer/badge.svg" alt="HonorBadge">
+    <img src="https://honorbadge.curbas.dev/flpbaer/badge.svg?theme=min-dark" alt="HonorBadge">
   </a>
 </div>
